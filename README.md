@@ -5,15 +5,15 @@
 
 
 <p align='center'> 
-  Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/alexandresanlim'>here</a> 
+  Improve your README.md profile with these amazing badges. See a sample <a href='https://github.com/mzekiosmancik'>here</a> 
 </p>
 
 <p align='center'>
- <a href="https://github.com/sponsors/alexandresanlim">
+ <a href="https://github.com/sponsors/mzekiosmancik">
     <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />        
   </a>&nbsp;&nbsp;
   <a href="#">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://github.com/mzekiosmancik/github-progile-badges">
 </a>&nbsp;&nbsp;
 </p>
 
@@ -1046,11 +1046,6 @@ or
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
 
-## 🔁 Dynamic
-Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
-<br/>
-<br/>
-<br/>
 
 ## ✏ How To Contribute [🔝](#menu)
 
@@ -1075,15 +1070,4 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 ## Creators [🔝](#menu)
 
 It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
-
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
-
-
-
-## Thanks to all contributors ❤
-
- <a href = "https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
- </a>
+                                                                                                                                                  |                                                                                                                              
