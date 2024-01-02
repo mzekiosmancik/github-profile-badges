@@ -1066,8 +1066,3 @@ https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-N
 4 - Paste on category with `Alphabetical` order.
 
 5 - Commit your changes.
-
-## Creators [🔝](#menu)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
-                                                                                                                                                  |                                                                                                                              
